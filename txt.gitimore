@@ -2,12 +2,17 @@
 *.asv
 *.autosave
 *.fig
+*.m~
 
-# Large Data & Features (Generated files)
+# Large Data & Features (We don't want to upload huge files)
 MFCC_Features.mat
 Data/
 *.wav
+*.mp3
 
-# System files
+# Compiled models (Optional: Remove this line if you WANT to share your trained models)
+GMM_Parameters_M*.mat
+
+# System files (Junk files created by your OS)
 .DS_Store
 Thumbs.db
