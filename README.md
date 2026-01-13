@@ -68,6 +68,3 @@ Where parameters $\lambda = \{w_i, \mu_i, \Sigma_i\}$ are estimated using the it
 2.  **M-Step:** Update weights, means, and variances.
 
 
-
-## 👤 Author
-**Nikos Mavros** - *University of Thessaly*
