@@ -1,4 +1,4 @@
-# GMM-Based Music Genre Recognition System
+# GMM-Based Music Genre Recognition System🎶
 
 **Course:** ECE443 Speech and Audio Processing, university of thessaly 
 **Author:** Nikos Mavros
