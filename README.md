@@ -58,13 +58,3 @@ As seen below, the spectral textures of the genres are distinct. Classical music
     ```matlab
     >> main
     ```
-
-## 📝 Theory
-The probability density of a feature vector $x$ is modeled as:
-$$p(x|\lambda) = \sum_{i=1}^{M} w_i g(x|\mu_i, \Sigma_i)$$
-
-Where parameters $\lambda = \{w_i, \mu_i, \Sigma_i\}$ are estimated using the iterative EM algorithm:
-1.  **E-Step:** Compute posterior probabilities.
-2.  **M-Step:** Update weights, means, and variances.
-
-
