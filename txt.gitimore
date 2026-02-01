@@ -10,9 +10,10 @@ Data/
 *.wav
 *.mp3
 
-# Compiled models (Optional: Remove this line if you WANT to share your trained models)
+# Compiled models 
 GMM_Parameters_M*.mat
 
 # System files (Junk files created by your OS)
 .DS_Store
 Thumbs.db
+
